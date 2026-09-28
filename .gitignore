@@ -1,0 +1,15 @@
+# Local Python environment
+.venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Local secret configuration
+.env
+.env.*
+!.env.example
+
+# Editor settings
+.idea/
+.vscode/
